@@ -1,5 +1,5 @@
 <h1 align="center">Olá, meu nome é Larissa</h1>
-<h3 align="center">ou desenvolvedora apaixonada por tecnologia e criação de projetos. Gosto de transformar ideias em aplicações funcionais, intuitivas e simples de evoluir.</h3>
+<h3 align="center">Uma desenvolvedora apaixonada por tecnologia e criação de projetos. Gosto de transformar ideias em aplicações funcionais, intuitivas e simples de evoluir.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=larissacalderan&label=Profile%20views&color=0e75b6&style=flat" alt="larissacalderan" /> </p>
 
