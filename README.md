@@ -21,7 +21,7 @@
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
   <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html logo" />
   <img width="12" />
 
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />
@@ -87,14 +87,16 @@
 ###
 
 <div data-importer="socials" align="center">
+
   <a href="https://www.instagram.com/larissacalderan/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" alt="instagram logo" />
   </a>
 
-  <a href="larissn" target="_blank">
+  <a href="https://discord.com/users/larissn" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="25" alt="discord logo" />
   </a>
 
+</div>
 
 ###
 
@@ -138,9 +140,18 @@
 
 <div data-importer="profile-views" align="center">
   <img
-    src="https://visitor-badge.laobi.icu/badge?page_id=larissacalderan.larissacalderan"
-    alt="Profile views"
+    src="https://komarev.com/ghpvc/?username=larissacalderan&label=Visualiza%C3%A7%C3%B5es%20do%20perfil&color=grey&style=flat"
+    alt="Visualizações do perfil"
   />
 </div>
 
 ###
+
+## 📄 Licença
+
+© 2026 Larissa Calderan
+
+Este README está licenciado sob a
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+Uso, reprodução e adaptação são permitidos desde que os créditos sejam mantidos.
